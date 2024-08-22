@@ -1,0 +1,8 @@
+# Docker
+.dockerignore
+
+# pgAdmin
+/pgadmin/pgadmin_volume
+
+# postgres
+db/postgres_volume

@@ -1,0 +1,1 @@
+LoadModule passenger_module /usr/local/bundle/gems/passenger-6.0.20/buildout/apache2/mod_passenger.so
